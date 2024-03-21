@@ -1,0 +1,72 @@
+:root {
+    --main-bg-color: #E83E8C;
+    --white: #fff;
+    --pink: #e83e8c;
+    --info: #17a2b8;
+    --color-text: #212529;
+}
+
+body {
+    font-family: "Open Sans", sans-serif;
+}
+
+.navbar {
+    background-color:  var(--main-bg-color);
+}
+
+.navbar-brand img {
+    width: 132px;
+    height: 53px;
+}
+
+#pago {
+    background-color: #17A2B8;
+    color: var(--white);
+}
+
+#footer {
+    background-color: var(--main-bg-color);
+}
+
+#footer img {
+    height: 100px;
+}
+
+h1 {
+    font-weight: 700;
+    color: #707070;
+    padding-bottom: 3rem;
+}
+
+h5 {
+    font-weight: 700;
+    color: #373A3C;
+}
+
+.col-sm-4 {
+    padding-bottom: 50px;
+}
+
+#pago {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 170px;
+}
+
+.col-4 {
+    align-items: center;
+    font-weight: 700;
+    font-size: 40px;
+    padding-top: 50px;
+}
+
+.col-2 {
+    align-items: center;
+    padding-top: 50px;
+}
+
+
+
+
+    
